@@ -14,4 +14,7 @@
     <string name="rs_6_500">Rs.6,500</string>
     <string name="book_now">Book Now</string>
     <string name="todo">TODO</string>
+    <string name="terms_privacy_more"><![CDATA[Terms, Privacy & More]]></string>
+    <string name="check_availability">Check Availability</string>
+    <string name="rs_6_500">Rs.6,500</string>
 </resources>

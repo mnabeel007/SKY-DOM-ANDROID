@@ -121,7 +121,7 @@
         android:id="@+id/textView11"
         android:layout_width="170dp"
         android:layout_height="30dp"
-        android:text="Terms, Privacy & More"
+        android:text="@string/terms_privacy_more"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
         android:textColor="#0F0000"

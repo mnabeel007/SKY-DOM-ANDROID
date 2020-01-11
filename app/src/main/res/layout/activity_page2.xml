@@ -66,8 +66,8 @@
     <Button
         android:id="@+id/button2"
         style="@style/Widget.AppCompat.Button.Colored"
-        android:layout_width="155dp"
-        android:layout_height="57dp"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
         android:background="#3540CE"
         android:fontFamily="monospace"
         android:text="@string/join_us"

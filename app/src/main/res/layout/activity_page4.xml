@@ -97,10 +97,10 @@
     <Button
         android:id="@+id/button4"
         style="@style/Widget.AppCompat.Button.Colored"
-        android:layout_width="371dp"
-        android:layout_height="61dp"
+        android:layout_width="370dp"
+        android:layout_height="60dp"
         android:layout_marginTop="16dp"
-        android:background="#8C9EFF"
+        android:background="#0288D1"
         android:fontFamily="monospace"
         android:text="@string/check_availability"
         android:textAlignment="center"

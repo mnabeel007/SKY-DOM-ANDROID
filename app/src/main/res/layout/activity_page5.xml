@@ -44,7 +44,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.365"
-        app:srcCompat="@drawable/Hektor_hostel_bunk_twin_room"
+        app:srcCompat="@drawable/pic7"
         android:contentDescription="@string/todo" />
 
     <TextView
